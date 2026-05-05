@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lfilho.github.io/pucpr-firebase-app",
+  "homepage": "https://luizhbfilho.github.io/pucpr-firebase-app",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
